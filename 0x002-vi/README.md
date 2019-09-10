@@ -1,1 +1,1 @@
-Description: command VI
+command vi
