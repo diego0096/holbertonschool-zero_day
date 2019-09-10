@@ -1,1 +1,1 @@
-command vi
+how to use command vi
