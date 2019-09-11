@@ -1,1 +1,1 @@
-This is a file about commad git
+Let's talk about the command git
