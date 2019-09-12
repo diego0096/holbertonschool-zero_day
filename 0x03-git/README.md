@@ -1,1 +1,1 @@
-Let's talk about the command git
+Let's talk about git command
