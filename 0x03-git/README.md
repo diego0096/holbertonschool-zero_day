@@ -1,1 +1,1 @@
-command git
+this is a commad git
